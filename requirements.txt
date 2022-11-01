@@ -1,0 +1,9 @@
+Django
+django-environ
+psycopg2-binary
+djangorestframework
+PyYAML
+Markdown
+Pygments
+django-filter
+django-guardian
